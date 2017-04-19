@@ -2,6 +2,6 @@
   "name": "bug",
   "main": "index.js",
   "dependencies": {
-    "web3-provider-engine": "^12.0.0"
+    "web3-provider-engine": "11.0.0"
   }
 }
